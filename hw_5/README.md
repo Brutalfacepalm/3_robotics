@@ -15,7 +15,7 @@
 
 [Прямой разворот](https://raw.githubusercontent.com/Brutalfacepalm/3_robotics/main/hw_5/%D0%9F%D1%80%D1%8F%D0%BC%D0%BE%D0%B8%CC%86%20%D1%80%D0%B0%D0%B7%D0%B2%D0%BE%D1%80%D0%BE%D1%82.png)
 
-[Параллельное перестроение](https://raw.githubusercontent.com/Brutalfacepalm/3_robotics/main/hw_5/%D0%9F%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B8%CC%86%20%D1%80%D0%B0%D0%B7%D0%B2%D0%BE%D1%80%D0%BE%D1%82.png)
+[Параллельный разворот](https://raw.githubusercontent.com/Brutalfacepalm/3_robotics/main/hw_5/%D0%9F%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B8%CC%86%20%D1%80%D0%B0%D0%B7%D0%B2%D0%BE%D1%80%D0%BE%D1%82.png)
 
 [Выезд с парковки](https://raw.githubusercontent.com/Brutalfacepalm/3_robotics/main/hw_5/%D0%92%D1%8B%D0%B5%D0%B7%D0%B4%20%D1%81%20%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%BA%D0%B8.png)
 
